@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lcgmiapp
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.13.
@@ -57,3 +58,6 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# LCGMIapp
+>>>>>>> ff5fc3719a4f4b48aaf26b1809de4a7b0aa09ac7
